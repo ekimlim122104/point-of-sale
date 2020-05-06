@@ -1,0 +1,111 @@
+C:\Users\User\AppData\Local\Temporary Projects\LoginForm_Market\bin\Debug\LoginForm_Market.exe
+C:\Users\User\AppData\Local\Temporary Projects\LoginForm_Market\bin\Debug\LoginForm_Market.pdb
+C:\Users\User\AppData\Local\Temporary Projects\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Mainform.resources
+C:\Users\User\AppData\Local\Temporary Projects\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\LoginForm_Market\obj\x86\Debug\LoginForm_Market.exe
+C:\Users\User\AppData\Local\Temporary Projects\LoginForm_Market\obj\x86\Debug\LoginForm_Market.pdb
+C:\Users\User\AppData\Local\Temporary Projects\LoginForm_Market\obj\x86\Debug\LoginForm_Market.employee_account.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\bin\Debug\LoginForm_Market.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\bin\Debug\LoginForm_Market.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.employee_account.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Form1.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Mainform.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.purchase.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.addproduct.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.inventoryreport.resources
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.exe
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.pdb
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\bin\Debug\LoginForm_Market.exe
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\bin\Debug\LoginForm_Market.pdb
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csprojResolveAssemblyReference.cache
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.addproduct.resources
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.taeee.resources
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.employee_account.resources
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Form1.resources
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.inventoryreport.resources
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Mainform.resources
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Properties.Resources.resources
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.purchase.resources
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.receipt.resources
+C:\Users\Shiroh\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.addS.resources
+C:\Users\User\documents\visual studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.registration.resources
+C:\Users\User\documents\visual studio 2010\Projects\LoginForm_Market\LoginForm_Market\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\documents\visual studio 2010\Projects\LoginForm_Market\LoginForm_Market\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\documents\visual studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\User\documents\visual studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\User\documents\visual studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csproj.ResolveComReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Deliver.resources
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\Interop.WMPLib.dll
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csproj.ResolveComReference.cache
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.exe
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.pdb
+F:\LoginForm_Market\LoginForm_Market\bin\Debug\LoginForm_Market.exe
+F:\LoginForm_Market\LoginForm_Market\bin\Debug\LoginForm_Market.pdb
+F:\LoginForm_Market\LoginForm_Market\bin\Debug\Interop.WMPLib.dll
+F:\LoginForm_Market\LoginForm_Market\bin\Debug\AxInterop.WMPLib.dll
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csprojResolveAssemblyReference.cache
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.addproduct.resources
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.addS.resources
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Deliver.resources
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.employee_account.resources
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Form1.resources
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.inventoryreport.resources
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Mainform.resources
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Properties.Resources.resources
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.purchase.resources
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.registration.resources
+F:\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csproj.GenerateResource.Cache
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csproj.ResolveComReference.cache
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.exe
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.pdb
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\bin\Debug\LoginForm_Market.exe
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\bin\Debug\LoginForm_Market.pdb
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\bin\Debug\Interop.WMPLib.dll
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csprojResolveAssemblyReference.cache
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.addproduct.resources
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.addS.resources
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Deliver.resources
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.employee_account.resources
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Form1.resources
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.inventoryreport.resources
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Mainform.resources
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Properties.Resources.resources
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.purchase.resources
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.registration.resources
+C:\Users\Shiroh\Desktop\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csproj.GenerateResource.Cache
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csproj.ResolveComReference.cache
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.exe
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.pdb
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\bin\Debug\LoginForm_Market.exe
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\bin\Debug\LoginForm_Market.pdb
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\bin\Debug\Interop.WMPLib.dll
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csprojResolveAssemblyReference.cache
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.addproduct.resources
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.addS.resources
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Deliver.resources
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.employee_account.resources
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Form1.resources
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.inventoryreport.resources
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Mainform.resources
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.Properties.Resources.resources
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.purchase.resources
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.registration.resources
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.csproj.GenerateResource.Cache
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.adminform.resources
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.customerfield.resources
+C:\Users\norman\Documents\Visual Studio 2010\Projects\LoginForm_Market\LoginForm_Market\obj\x86\Debug\LoginForm_Market.switchuser.resources
